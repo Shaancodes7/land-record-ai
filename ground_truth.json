@@ -1,0 +1,25 @@
+{
+  "samplee.png": {
+    "ownerName": "Rajesh Kumar",
+    "fatherName": "Mahesh Kumar",
+    "khasraNumber": "124/2",
+    "khataNumber": "782",
+    "surveyNumber": "SR-2041",
+    "area": "2.5 Acres",
+    "village": "Nangli",
+    "tehsil": "Najafgarh",
+    "district": "Delhi"
+  },
+
+  "sample2.png": {
+    "ownerName": "Rajesh Kumar",
+    "fatherName": "Mahesh Kumar",
+    "khasraNumber": "124/2",
+    "khataNumber": "782",
+    "surveyNumber": null,
+    "area": "2.5 Acres",
+    "village": "Nangli",
+    "tehsil": null,
+    "district": "Delhi"
+  }
+}
